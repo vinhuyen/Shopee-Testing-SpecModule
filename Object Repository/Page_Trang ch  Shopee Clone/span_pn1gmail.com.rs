@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_pn1gmail.com</name>
+   <tag></tag>
+   <elementGuidId>9030d31c-5ca3-48c2-896c-dcc35f2f8021</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/header/div/nav/ul/li[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>619e8aab-57ae-4c78-9b90-4bd3de6843c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pn1@gmail.com</value>
+      <webElementGuid>0455d703-5385-4c6b-b81f-dedd980cbed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;sticky inset-0 z-10&quot;]/div[@class=&quot;flex h-[2.125rem] items-center bg-orange&quot;]/nav[@class=&quot;container w-full&quot;]/ul[@class=&quot;flex items-center justify-end gap-4 text-[13px] text-white&quot;]/li[@class=&quot;flex cursor-pointer items-center gap-1 py-4 hover:text-white/80&quot;]/span[1]</value>
+      <webElementGuid>c75b655c-86d0-4a02-bbdb-c0c25215da79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/header/div/nav/ul/li[2]/span</value>
+      <webElementGuid>8b98f056-2d34-4cf7-9bd6-b0a6434ec9e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span</value>
+      <webElementGuid>8ea3cef9-71b3-4bc5-965f-d3ad81daae16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'pn1@gmail.com' or . = 'pn1@gmail.com')]</value>
+      <webElementGuid>13ad617a-7d88-486f-8fb6-d806c8ae52ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

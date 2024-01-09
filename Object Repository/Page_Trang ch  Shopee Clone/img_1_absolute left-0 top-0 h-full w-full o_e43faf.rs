@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div[2]/div[3]/a/div/img</value>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/a/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>5ca5a494-c679-4bb9-a33c-6b2bf8e0af81</webElementGuid>
+      <webElementGuid>39a1d1a8-b559-4da9-99b8-913ffb107f8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>absolute left-0 top-0 h-full w-full object-cover</value>
-      <webElementGuid>854a8c46-c8a9-4abf-8720-dee391a62fad</webElementGuid>
+      <webElementGuid>09f37e3d-d9a6-44f6-9203-620c9d9ccbdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://api-ecom.duthanhduoc.com/images/bbea6d3e-e5b1-494f-ab16-02eece816d50.jpg</value>
-      <webElementGuid>295e7f4b-ca1a-4404-afdb-34d1020d27f7</webElementGuid>
+      <webElementGuid>43a92d78-7c60-4649-a687-9028a8978edb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,18 +46,50 @@
       <name>alt</name>
       <type>Main</type>
       <value>Điện Thoại Vsmart Active 3 6GB/64GB - Hàng Chính Hãng</value>
-      <webElementGuid>7e971f59-1cbc-490e-b7a9-bc4533567c63</webElementGuid>
+      <webElementGuid>3465640f-8963-44c4-a332-160d5740cb69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;border-b-4 border-b-orange bg-[#f5f5f5] pb-[60px] pt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex flex-col gap-5 md:flex-row&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mb-12 mt-4 grid grid-cols-2 gap-[10px] px-[5px] sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5&quot;]/a[@class=&quot;col-span-1 h-full overflow-hidden rounded-sm bg-white shadow transition hover:translate-y-[-.0625rem] hover:shadow-[0_0.0625rem_20px_0_rgba(0,0,0,.05)]&quot;]/div[@class=&quot;relative w-full pt-[100%]&quot;]/img[@class=&quot;absolute left-0 top-0 h-full w-full object-cover&quot;]</value>
-      <webElementGuid>d55c199c-5ccb-4158-93f9-06b6313ab283</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;border-b-4 border-b-orange bg-[#f5f5f5] pb-[60px] pt-10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex flex-col gap-5 md:flex-row&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mb-12 mt-4 grid grid-cols-2 gap-[10px] px-[5px] sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5&quot;]/a[@class=&quot;col-span-1 h-full overflow-hidden rounded-sm bg-white shadow transition hover:translate-y-[-.0625rem] hover:shadow-[0_0.0625rem_20px_0_rgba(0,0,0,.05)]&quot;]/div[@class=&quot;relative w-full pt-[100%]&quot;]/img[@class=&quot;absolute left-0 top-0 h-full w-full object-cover&quot;]</value>
+      <webElementGuid>c2d25b1a-1a18-4a88-a473-1ce2fb6ee0a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/a/div/img</value>
+      <webElementGuid>5cd87c46-b1b0-428e-a450-f58f0fb8fde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Điện Thoại Vsmart Active 3 6GB/64GB - Hàng Chính Hãng']</value>
+      <webElementGuid>3a5f6bb7-0d5f-4646-b6cc-ea0cecdda4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>130a0b9d-bbcd-438b-8098-cbd360ba77dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api-ecom.duthanhduoc.com/images/bbea6d3e-e5b1-494f-ab16-02eece816d50.jpg' and @alt = 'Điện Thoại Vsmart Active 3 6GB/64GB - Hàng Chính Hãng']</value>
+      <webElementGuid>11468352-db77-4b24-add9-4fdebac0a510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -67,25 +99,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
-      <type>Main</type>
-      <value>//img[@alt='Điện Thoại Vsmart Active 3 6GB/64GB - Hàng Chính Hãng']</value>
-      <webElementGuid>ca89058d-1eb3-446c-9c9f-1a3e5686a15a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/img</value>
       <webElementGuid>f8cdb396-76d3-44ca-88f6-c12e35aae6f8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@src = 'https://api-ecom.duthanhduoc.com/images/bbea6d3e-e5b1-494f-ab16-02eece816d50.jpg' and @alt = 'Điện Thoại Vsmart Active 3 6GB/64GB - Hàng Chính Hãng']</value>
-      <webElementGuid>412d13b4-5c5a-495b-b25e-9267f8101050</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

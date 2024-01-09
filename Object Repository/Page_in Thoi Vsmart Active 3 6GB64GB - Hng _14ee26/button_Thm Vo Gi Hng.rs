@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ac4904c8-c345-4489-a45c-a8fa7e69d726</webElementGuid>
+      <webElementGuid>2b76c45b-1089-46e8-bf64-bced34ef4f70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center justify-center gap-[10px] rounded-sm border border-orange bg-[#ffeee8] px-[20px] py-[11px] capitalize text-orange shadow-sm hover:opacity-80</value>
-      <webElementGuid>5fe2b77c-78f0-4c81-a560-a1a53adfd743</webElementGuid>
+      <webElementGuid>fbb532af-80b8-4007-ab41-155d19672651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Thêm Vào Giỏ Hàng</value>
-      <webElementGuid>c6e5aaa0-5c48-4bd2-885b-bd20b12b6ce9</webElementGuid>
+      <webElementGuid>2a371c81-b850-4578-bf6a-75cc938fd732</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;border-b-4 border-b-orange bg-[#f5f5f5] pb-[60px] pt-10&quot;]/div[@class=&quot;container flex flex-col rounded-[3px] bg-white shadow md:flex-row&quot;]/div[@class=&quot;flex-1 px-2 py-[20px]&quot;]/div[@class=&quot;mt-[30px] flex flex-wrap items-center gap-[15px] pl-[20px]&quot;]/button[@class=&quot;flex items-center justify-center gap-[10px] rounded-sm border border-orange bg-[#ffeee8] px-[20px] py-[11px] capitalize text-orange shadow-sm hover:opacity-80&quot;]</value>
-      <webElementGuid>80f28fb6-2e33-4f0b-b6b6-bf07de45e602</webElementGuid>
+      <webElementGuid>b58340c9-6d6d-4cab-9554-9fb8e2e2aa5e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[3]/div[5]/button</value>
-      <webElementGuid>6701b4ae-0036-4468-a99d-64156d3e6bb8</webElementGuid>
+      <webElementGuid>73841897-f3b5-41f7-b3fa-fb63b18a1489</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button</value>
-      <webElementGuid>342e1c21-4fe9-4904-92ba-d990e242cf72</webElementGuid>
+      <webElementGuid>c5f1deba-3022-445c-9800-27d37c5dc720</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Thêm Vào Giỏ Hàng' or . = 'Thêm Vào Giỏ Hàng')]</value>
-      <webElementGuid>82f283af-1018-44bb-b04b-bcd59eb8d88d</webElementGuid>
+      <webElementGuid>12e27693-2602-4c41-a2fc-b24779d5f930</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

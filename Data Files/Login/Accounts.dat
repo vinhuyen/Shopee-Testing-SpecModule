@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Account</name>
+   <name>Accounts</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>11b8bb9a-65ec-41b5-a68d-1c607cbd6c3e</dataFileGUID>
+   <dataFileGUID>e300c5eb-2425-4803-8b5b-40ef3e5cbaef</dataFileGUID>
    <dataSourceUrl>C:\Users\FPTSHOP\OneDrive\Tài liệu\KMSS.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>

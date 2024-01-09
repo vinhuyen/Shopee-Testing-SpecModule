@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://vshopee.vercel.app/')
+
+WebUI.click(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/img_1_absolute left-0 top-0 h-full w-full o_e43faf'))
+
+WebUI.click(findTestObject('Object Repository/Page_in Thoi Vsmart Active 3 6GB64GB - Hng _14ee26/button_Thm Vo Gi Hng'))
+

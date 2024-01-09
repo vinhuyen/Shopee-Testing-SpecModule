@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Xoa</name>
+   <tag></tag>
+   <elementGuidId>74cb73a8-b5d4-4852-8ed4-fa7fe888e8db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0d978d63-0c9f-4fea-848d-7241d5c8d861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black outline-none hover:text-orange</value>
+      <webElementGuid>92f51bd1-9e2b-4a9d-acca-8557c0082b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xóa</value>
+      <webElementGuid>c52eeccb-a42a-4a38-8802-593d74d21a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;border-b-4 border-b-orange bg-[#f5f5f5] pb-[60px] pt-10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;mt-[15px] rounded-[3px] bg-white px-5 py-4 shadow-sm&quot;]/div[@class=&quot;grid grid-cols-12 gap-4 border px-5 py-[16px]&quot;]/div[@class=&quot;col-span-12 flex items-center lg:col-span-6&quot;]/div[@class=&quot;grid flex-1 grid-cols-2 gap-y-2 text-sm text-gray-500/90 sm:grid-cols-6&quot;]/div[@class=&quot;col-span-1 text-center&quot;]/button[@class=&quot;text-black outline-none hover:text-orange&quot;]</value>
+      <webElementGuid>9a7c41b4-462c-451c-b034-a607d805172a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div[4]/button</value>
+      <webElementGuid>76a5a165-b9e1-44da-981b-8cc4e9378f99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>a53e444a-05c1-4628-b698-99e115f38570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Xóa' or . = 'Xóa')]</value>
+      <webElementGuid>f20f0556-b7d3-412a-8cbf-e1665681738a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

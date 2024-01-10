@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Thm Vo Gi Hng</name>
+   <name>button_add</name>
    <tag></tag>
-   <elementGuidId>b02e005b-c091-4160-b5fb-7a287df6ec4d</elementGuidId>
+   <elementGuidId>bddf0a11-1b19-46ed-8865-63dcbd07ed95</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div/div[3]/div[5]/button</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2b76c45b-1089-46e8-bf64-bced34ef4f70</webElementGuid>
+      <webElementGuid>ceed21fe-f46c-43f8-b553-10f5f06393e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center justify-center gap-[10px] rounded-sm border border-orange bg-[#ffeee8] px-[20px] py-[11px] capitalize text-orange shadow-sm hover:opacity-80</value>
-      <webElementGuid>fbb532af-80b8-4007-ab41-155d19672651</webElementGuid>
+      <webElementGuid>89cad59f-9f5d-4de6-a2c2-dcfe0c9835eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Thêm Vào Giỏ Hàng</value>
-      <webElementGuid>2a371c81-b850-4578-bf6a-75cc938fd732</webElementGuid>
+      <webElementGuid>7dd5b6ad-e563-4d4f-a9eb-3b39be1a85cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;border-b-4 border-b-orange bg-[#f5f5f5] pb-[60px] pt-10&quot;]/div[@class=&quot;container flex flex-col rounded-[3px] bg-white shadow md:flex-row&quot;]/div[@class=&quot;flex-1 px-2 py-[20px]&quot;]/div[@class=&quot;mt-[30px] flex flex-wrap items-center gap-[15px] pl-[20px]&quot;]/button[@class=&quot;flex items-center justify-center gap-[10px] rounded-sm border border-orange bg-[#ffeee8] px-[20px] py-[11px] capitalize text-orange shadow-sm hover:opacity-80&quot;]</value>
-      <webElementGuid>b58340c9-6d6d-4cab-9554-9fb8e2e2aa5e</webElementGuid>
+      <webElementGuid>cac5cdec-2462-4fc2-9723-1a54a84b9c0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[3]/div[5]/button</value>
-      <webElementGuid>73841897-f3b5-41f7-b3fa-fb63b18a1489</webElementGuid>
+      <webElementGuid>05009a15-b2c3-4745-a8c9-0799c7a92854</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button</value>
-      <webElementGuid>c5f1deba-3022-445c-9800-27d37c5dc720</webElementGuid>
+      <webElementGuid>7400ea74-1c68-494d-8a57-39431d074139</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +69,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Thêm Vào Giỏ Hàng' or . = 'Thêm Vào Giỏ Hàng')]</value>
-      <webElementGuid>12e27693-2602-4c41-a2fc-b24779d5f930</webElementGuid>
+      <webElementGuid>c032020d-6cba-4b83-be11-1e4d64d44251</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

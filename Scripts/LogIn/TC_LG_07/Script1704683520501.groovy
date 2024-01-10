@@ -23,7 +23,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/')
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/a_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Page_Trang Shopee/login'))
 
-WebUI.click(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_email'))
+WebUI.click(findTestObject('Object Repository/Page_LoginShopee/input_email'))
 

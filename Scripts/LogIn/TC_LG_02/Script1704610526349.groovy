@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/')
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/a_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Page_Trang Shopee/login'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_email'), 'nguyenvannhat05112003@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_LoginShopee/input_email'), 'nguyenvannhat05112003@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_password'), '9NLz+4tGZcQ=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_LoginShopee/input_password'), '9NLz+4tGZcQ=')
 
-WebUI.click(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/button_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Page_LoginShopee/button_ng Nhp'))
 

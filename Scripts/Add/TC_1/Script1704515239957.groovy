@@ -27,23 +27,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/')
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/a_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Page_Trang Shopee/login'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_email'), 'nguyenvannhat0511@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_LoginShopee/input_email'), 'nguyenvannhat0511@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_password'), '37Bc/9dN+iJXYsSAphaHmg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_LoginShopee/input_password'), '37Bc/9dN+iJXYsSAphaHmg==')
 
-WebUI.click(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/button_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Page_LoginShopee/button_ng Nhp'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_email'), 'nguyenvannhat05112003@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_LoginShopee/input_email'), 'nguyenvannhat05112003@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/button_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Page_LoginShopee/button_ng Nhp'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/input_Shopee_name'), 'điện thoại')
+WebUI.setText(findTestObject('Object Repository/Page_Trang Shopee/input_Shopee_name'), 'điện thoại')
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/button_Shopee_cursor-pointer rounded-sm bg-_8d114d'))
+WebUI.click(findTestObject('Object Repository/Page_Trang Shopee/button_Shopee_cursor-pointer rounded-sm bg-_8d114d'))
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/img_1_absolute left-0 top-0 h-full w-full o_e43faf'))
+WebUI.click(findTestObject('Object Repository/Page_Trang Shopee/img_1_absolute left-0 top-0 h-full w-full o_e43faf'))
 
-WebUI.click(findTestObject('Object Repository/Page_in Thoi Vsmart Active 3 6GB64GB - Hng _14ee26/button_Thm Vo Gi Hng'))
+WebUI.click(findTestObject('Object Repository/Page_Vsmart Active 3 6GB64GB/button_add'))
 

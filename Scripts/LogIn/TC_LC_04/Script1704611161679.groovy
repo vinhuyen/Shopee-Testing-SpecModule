@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/')
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/a_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Page_Trang Shopee/login'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_email'), 'nguyenvannhat05112003@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_LoginShopee/input_email'), 'nguyenvannhat05112003@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_password'), 'DEnHKqV5dRNGs7WCyOHOt4ZRtjFVaCxVurIRvbj53lNRlXm2KRy8hkLF/jOgoJFI')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_LoginShopee/input_password'), 'DEnHKqV5dRNGs7WCyOHOt4ZRtjFVaCxVurIRvbj53lNRlXm2KRy8hkLF/jOgoJFI')
 
-WebUI.click(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/button_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Page_LoginShopee/button_ng Nhp'))
 
-WebUI.click(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/svg_ng Nhp_absolute right-5px top-8px h-6 w_d530b3'))
+WebUI.click(findTestObject('Object Repository/Page_LoginShopee/svg_ng Nhp_absolute right-5px top-8px h-6 w_d530b3'))
 

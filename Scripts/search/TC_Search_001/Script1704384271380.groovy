@@ -21,5 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/?page=1&limit=10&name=%2F')
 
+WebUI.delay(5)
 
+WebUI.closeBrowser()
 

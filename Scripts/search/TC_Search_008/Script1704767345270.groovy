@@ -20,11 +20,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/?page=1&limit=10&name=%2F')
 
-WebUI.setText(findTestObject('Object Repository/Search/input_name'), 'áo')
+WebUI.setText(findTestObject('Object Repository/Search/Input_name(search)'), 'áo')
 
-WebUI.sendKeys(findTestObject('Object Repository/Search/input_name'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Search/Input_name(search)'), Keys.chord(Keys.ENTER))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Search/select_Price high to low and low to high'), 'asc',
 	true)
+WebUI.delay(5)
+WebUI.closeBrowser()
 
 

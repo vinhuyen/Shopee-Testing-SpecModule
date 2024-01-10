@@ -22,8 +22,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/?page=1&limit=10&name=%2F')
 
-WebUI.setText(findTestObject('Object Repository/Search/input_name'), 'điện thoại')
+WebUI.setText(findTestObject('Object Repository/Search/Input_name(search)'), 'điện thoại')
 
 WebUI.click(findTestObject('Object Repository/Search/Button_best-selling products'))
+WebUI.delay(5)
 
-
+WebUI.closeBrowser()

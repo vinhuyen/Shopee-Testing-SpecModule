@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Newest products</name>
+   <tag></tag>
+   <elementGuidId>080d61a4-d319-41ad-bbbe-dfe4f45c5321</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24d18058-a239-4bea-b182-280b8270d6c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-[90px] rounded-sm px-[21px] py-[7px]  shadow-sm hover:opacity-80 bg-white text-black</value>
+      <webElementGuid>944259ee-4d9c-4b24-9303-b2504fbb1a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gần nhất</value>
+      <webElementGuid>c01d05df-927c-4c4a-8cbe-7a3205d54519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;border-b-4 border-b-orange bg-[#f5f5f5] pb-[60px] pt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex flex-col gap-5 md:flex-row&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-wrap items-center gap-2 rounded-sm bg-[#ededed] px-5 py-[13px] lg:justify-between&quot;]/div[@class=&quot;flex flex-wrap items-center gap-[10px] text-sm&quot;]/button[@class=&quot;min-w-[90px] rounded-sm px-[21px] py-[7px]  shadow-sm hover:opacity-80 bg-white text-black&quot;]</value>
+      <webElementGuid>ec8154d9-4443-4212-bb7f-8755a88b2a9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>32b4ceed-b526-419c-bb63-a0aeba679f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>8bd920a9-a6f8-45a3-a876-13057b7fda2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Gần nhất' or . = 'Gần nhất')]</value>
+      <webElementGuid>1ef04e4b-c92c-4589-b7e5-5135d7c6f653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Price high to low and low to high</name>
+   <tag></tag>
+   <elementGuidId>1f301ad5-d0aa-4ce0-b360-5446620d542b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9091bed6-c91f-4870-81ab-d442059fb89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-[200px] cursor-pointer rounded-sm bg-white px-2 py-[9px] outline-none hover:opacity-80</value>
+      <webElementGuid>e0156d36-84f0-4bfc-bd48-4c47189c2138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GiáThấp đến CaoCao đến Thấp</value>
+      <webElementGuid>30dd1fd8-0512-40e9-a5b9-6e186bf54cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;border-b-4 border-b-orange bg-[#f5f5f5] pb-[60px] pt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex flex-col gap-5 md:flex-row&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex flex-wrap items-center gap-2 rounded-sm bg-[#ededed] px-5 py-[13px] lg:justify-between&quot;]/div[@class=&quot;flex flex-wrap items-center gap-[10px] text-sm&quot;]/select[@class=&quot;min-w-[200px] cursor-pointer rounded-sm bg-white px-2 py-[9px] outline-none hover:opacity-80&quot;]</value>
+      <webElementGuid>a9f59247-31be-48db-b5bc-4b21484744eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>a9875717-33fb-42e4-9b45-89a992b8b483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>82ef57d7-6851-49c8-a07d-504c82e7e3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'GiáThấp đến CaoCao đến Thấp' or . = 'GiáThấp đến CaoCao đến Thấp')]</value>
+      <webElementGuid>49afa58c-2270-412d-9e86-5fe41e381373</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

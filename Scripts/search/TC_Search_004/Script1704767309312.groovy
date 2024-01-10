@@ -21,7 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/input_name'), 'áo + quần')
+WebUI.setText(findTestObject('Object Repository/Search/input_name'), 'áo + quần')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/input_name'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Search/input_name'), Keys.chord(Keys.ENTER))
+WebUI.delay(5)
+WebUI.closeBrowser()
 

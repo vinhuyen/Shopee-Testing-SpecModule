@@ -17,11 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
+
+
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vshopee.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/input_name'), 'dien thoai')
+WebUI.setText(findTestObject('Object Repository/Search/input_name'), 'dien thoai')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Trang ch  Shopee Clone/input_name'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Search/button_cursor'))
+WebUI.delay(5)
+WebUI.closeBrowser()
 

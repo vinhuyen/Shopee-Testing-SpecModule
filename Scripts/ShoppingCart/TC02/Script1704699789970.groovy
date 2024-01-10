@@ -27,4 +27,5 @@ import org.openqa.selenium.chrome.ChromeDriver as ChromeDriver
 
 //WebUI.click(findTestObject('Object Repository/Page_ShopingCartManagement/IconCart'))
 WebUI.check(findTestObject('Object Repository/Page_ShopingCartManagement/Check_box'))
+WebUI.delay(10)
 //WebUI.closeBrowser()

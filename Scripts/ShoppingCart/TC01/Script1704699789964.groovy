@@ -28,5 +28,6 @@ import org.openqa.selenium.chrome.ChromeDriver as ChromeDriver
 //WebUI.click(findTestObject('Object Repository/Page_ShopingCartManagement/IconCart'))
 
 WebUI.click(findTestObject('Object Repository/Page_ShopingCartManagement/button_Xoa'))
+WebUI.delay(10)
 
 //WebUI.closeBrowser()

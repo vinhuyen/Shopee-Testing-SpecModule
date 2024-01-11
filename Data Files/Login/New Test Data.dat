@@ -6,8 +6,8 @@
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>fe376bf1-107e-4f7b-a598-78194d32bc8c</dataFileGUID>
-   <dataSourceUrl>C:\Users\FPTSHOP\OneDrive\Tài liệu\KMSS.xlsx</dataSourceUrl>
+   <dataFileGUID>6b1f94bc-a37e-4801-b3a1-ba77f682f06b</dataFileGUID>
+   <dataSourceUrl>C:\Users\FPTSHOP\Shopee-Testing-SpecModule\Data Files\Login\KMSS.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

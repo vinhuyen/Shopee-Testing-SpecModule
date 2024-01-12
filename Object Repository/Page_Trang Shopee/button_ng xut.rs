@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ng xut</name>
+   <tag></tag>
+   <elementGuidId>9cee66b6-b26c-41b1-aa09-ae22720ceec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/header/div/nav/ul/li[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ad2daef0-a65a-4b08-832c-e8db60443dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Đăng xuất</value>
+      <webElementGuid>590ef1bf-00dc-41cc-a1e4-103dde6b5c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-2 pl-4 pr-8 text-left hover:bg-slate-100 hover:text-cyan-400</value>
+      <webElementGuid>b755ece3-46bd-42de-b7d0-f29d1d547677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng xuất</value>
+      <webElementGuid>ef5886ec-690d-4b66-be16-0af1e85b7d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;sticky inset-0 z-10&quot;]/div[@class=&quot;flex h-[2.125rem] items-center bg-orange&quot;]/nav[@class=&quot;container w-full&quot;]/ul[@class=&quot;flex items-center justify-end gap-4 text-[13px] text-white&quot;]/li[@class=&quot;flex cursor-pointer items-center gap-1 py-4 hover:text-white/80&quot;]/div[@class=&quot;z-10&quot;]/div[@class=&quot;flex min-w-[150px] flex-col rounded-sm border border-t-0 bg-white text-left text-base text-black shadow-sm&quot;]/button[@class=&quot;py-2 pl-4 pr-8 text-left hover:bg-slate-100 hover:text-cyan-400&quot;]</value>
+      <webElementGuid>c959d9d2-cca3-4f7f-aa16-d7fad02405f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/header/div/nav/ul/li[2]/div/div/button</value>
+      <webElementGuid>b8da3b2b-02c3-4284-a0f1-4e42c3e4a304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>d1254cf4-58ad-43eb-9514-5b75fdedb52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Đăng xuất' and (text() = 'Đăng xuất' or . = 'Đăng xuất')]</value>
+      <webElementGuid>fe9831aa-6e3e-4252-884a-baf49f388621</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

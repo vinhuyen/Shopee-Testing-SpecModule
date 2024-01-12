@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <elementGuidId>034dfc5f-9ed8-45b8-a60c-14a1c0af125b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/header/div/nav/ul/li[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>908a9d23-2cc1-4e73-9a28-dc172666f754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Đăng Nhập</value>
+      <webElementGuid>e7e93a1e-de34-496f-9938-b71b59675c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> px-2 hover:opacity-80</value>
+      <webElementGuid>4adf644b-1b15-4a1f-b7c4-07ee8d599ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>b4ec8894-9655-4d30-8996-b831989a71ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng Nhập</value>
+      <webElementGuid>cbf82ab0-90d3-442e-af68-326766e2b928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;sticky inset-0 z-10&quot;]/div[@class=&quot;flex h-[2.125rem] items-center bg-orange&quot;]/nav[@class=&quot;container w-full&quot;]/ul[@class=&quot;flex items-center justify-end gap-4 text-[13px] text-white&quot;]/li[@class=&quot;flex items-center&quot;]/a[@class=&quot;px-2 hover:opacity-80&quot;]</value>
+      <webElementGuid>21c834fa-2680-4725-a499-07c17d4c247e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/header/div/nav/ul/li[2]/a[2]</value>
+      <webElementGuid>04070aff-99a8-4024-a185-96ca33f2e858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đăng Nhập')]</value>
+      <webElementGuid>ab11f9f6-2820-43f0-81c1-c776f45e5013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login')]</value>
+      <webElementGuid>a41cede6-e5dd-4f65-b5a5-0a1c4b59f2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>d67d9560-d6c7-41fd-9879-2dd8f4736a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Đăng Nhập' and @href = '/login' and (text() = 'Đăng Nhập' or . = 'Đăng Nhập')]</value>
+      <webElementGuid>944f2f40-3835-4df4-bdc2-3fbe1f766e02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

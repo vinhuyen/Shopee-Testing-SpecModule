@@ -17,18 +17,28 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://vshopee.vercel.app/?page=1&limit=10&name=%2F')
+WebUI.navigateToUrl('https://vshopee.vercel.app/login')
 
-WebUI.setText(findTestObject('Object Repository/Search/Input_name(search)'), 'áo')
+WebUI.setText(findTestObject('Object Repository/Page_ng Nhp  Shopee Clone/input_ng Nhp_email'), 'hothitai2000@gmail.com')
 
-WebUI.sendKeys(findTestObject('Object Repository/Search/Input_name(search)'), Keys.chord(Keys.ENTER))
+WebUI.setEncryptedText(findTestObject('Object Repository/UpdateProfile/password'), 'p8JITmOmKejiKS3xpjD7eQ==')
+
+WebUI.click(findTestObject('Object Repository/UpdateProfile/Button_submit'))
+
+WebUI.click(findTestObject('Object Repository/UpdateProfile/email_link'))
+
+WebUI.click(findTestObject('Object Repository/UpdateProfile/account'))
+
+WebUI.setText(findTestObject('Object Repository/UpdateProfile/input_name'),'Hồ Thị Tài')
+
+WebUI.setText(findTestObject('Object Repository/UpdateProfile/input_phone'),'0362271203')
+
+WebUI.setText(findTestObject('Object Repository/UpdateProfile/input_phone'),'0362203849035839853953945834534853845348')
+
+WebUI.click(findTestObject('Object Repository/UpdateProfile/button_save'))
 
 WebUI.delay(5)
 
 WebUI.closeBrowser()
-
-
-

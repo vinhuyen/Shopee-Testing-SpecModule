@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_S lng_h-10px w-10px fill-gray-500</name>
+   <tag></tag>
+   <elementGuidId>636ff2ed-a0ca-409f-8c2c-f5c0498fe672</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c028b663-fc2b-4a3d-a6fa-7571421331f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enable-background</name>
+      <type>Main</type>
+      <value>new 0 0 10 10</value>
+      <webElementGuid>aa64aa69-944a-4d1e-8d41-d4d90c55e1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 10 10</value>
+      <webElementGuid>3c8df9e2-7a78-4a72-b3e7-ce5444a1a81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f1522c87-37b9-418a-b4f4-e68ff1f7058b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>80f04920-bba8-4a6d-95d5-3abb770a33bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-[10px] w-[10px] fill-gray-500</value>
+      <webElementGuid>4238ff48-bbb8-4409-a897-150538964953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;border-b-4 border-b-orange bg-[#f5f5f5] pb-[60px] pt-10&quot;]/div[@class=&quot;container flex flex-col rounded-[3px] bg-white shadow md:flex-row&quot;]/div[@class=&quot;flex-1 px-2 py-[20px]&quot;]/div[@class=&quot;mt-6 flex items-center gap-16 pl-[20px] text-sm text-gray-500&quot;]/div[@class=&quot;flex flex-wrap items-center gap-[15px]&quot;]/div[@class=&quot;flex items-center overflow-hidden rounded-sm shadow-sm&quot;]/button[@class=&quot;border p-[10px]&quot;]/svg[@class=&quot;h-[10px] w-[10px] fill-gray-500&quot;]</value>
+      <webElementGuid>c0a0f992-fc56-4c95-933b-f7be01046f28</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

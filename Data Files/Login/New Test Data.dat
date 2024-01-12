@@ -7,9 +7,15 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>6b1f94bc-a37e-4801-b3a1-ba77f682f06b</dataFileGUID>
-   <dataSourceUrl>C:\Users\FPTSHOP\Shopee-Testing-SpecModule\Data Files\Login\KMSS.xlsx</dataSourceUrl>
+   <dataSourceUrl>D:\uyen-xinh\Testing-KMS\final project\Shopee-Testing-SpecModule\Data Files\Login\KMSS.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>

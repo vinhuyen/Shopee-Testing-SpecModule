@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ExistedEmail</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a0b4714b-3a8c-4c24-a94a-b6ae6348ba7f</testSuiteGuid>
+   <testCaseLink>
+      <guid>cb46aa43-e19c-48c5-9e74-13aa052c6b9a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registration/TC_RE_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ecf6d247-3e92-47b7-8afc-e6bed4b362ea</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/registration/existedemail</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ecf6d247-3e92-47b7-8afc-e6bed4b362ea</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>38245bcb-a091-47b7-8c6f-714aad10be90</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ecf6d247-3e92-47b7-8afc-e6bed4b362ea</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>13339319-1e75-4ebb-a307-925e4e68ffb7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ecf6d247-3e92-47b7-8afc-e6bed4b362ea</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirmpassword</value>
+         <variableId>499470a5-d97f-4652-86b0-a5deaf239802</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

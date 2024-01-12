@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Sucessfully</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>da15d90e-dd3f-4b14-aeb7-4765be25bed9</testSuiteGuid>
+   <testCaseLink>
+      <guid>2b5af435-a2d3-4a69-b58c-8a472009ccbb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registration/TC_RE_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>105a5456-f241-4407-9097-36ca0801a55b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/registration/succesfully</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>105a5456-f241-4407-9097-36ca0801a55b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>38245bcb-a091-47b7-8c6f-714aad10be90</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>105a5456-f241-4407-9097-36ca0801a55b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>13339319-1e75-4ebb-a307-925e4e68ffb7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>105a5456-f241-4407-9097-36ca0801a55b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirmpassword</value>
+         <variableId>499470a5-d97f-4652-86b0-a5deaf239802</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
